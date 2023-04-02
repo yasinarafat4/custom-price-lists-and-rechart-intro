@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Membership",
+    "price": 30.0,
+    "description": "Access to cardio and weight equipment during regular hours.",
+    "features": ["Cardio & weights", "Regular hours", "No classes or PT"]
+  },
+  {
+    "id": 2,
+    "name": "Premium Membership",
+    "price": 60.0,
+    "description": "Access to all equipment, including classes and personal training sessions.",
+    "features": ["All equipment & classes", "24/7 access", "Free towel service"]
+  },
+  {
+    "id": 3,
+    "name": "Student Membership",
+    "price": 20.0,
+    "description": "Access to cardio and weight equipment during regular hours, with valid student ID.",
+    "features": [
+      "Cardio & weights",
+      "Regular hours",
+      "Valid student ID required"
+    ]
+  }
+]
