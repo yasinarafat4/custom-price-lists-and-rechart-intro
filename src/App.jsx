@@ -5,6 +5,7 @@ import "./App.css";
 import Navbar from "./components/Navbar/Navbar";
 import PriceLists from "./components/PriceLists/PriceLists";
 import Dashboard from "./components/Dashboard/Dashboard";
+import PhoneBar from "./components/PhoneBar/PhoneBar";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Navbar></Navbar>
       <PriceLists></PriceLists>
       <Dashboard></Dashboard>
+      <PhoneBar></PhoneBar>
     </div>
   );
 }
